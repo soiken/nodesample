@@ -1,0 +1,8 @@
+applications:
+  - path: .
+    name: CD0201-8b5-nodesample
+    environment_json: {}
+    memory: 256M
+    instances: 1
+    disk_quota: 1024M
+    services: []
